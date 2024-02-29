@@ -1,0 +1,11 @@
+/home/tomas/personal/practica-rust/calculator/target/debug/deps/libsignal_hook-63d606a3fd659bc2.rmeta: /home/tomas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/lib.rs /home/tomas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/cleanup.rs /home/tomas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/flag.rs /home/tomas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/iterator.rs /home/tomas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/pipe.rs
+
+/home/tomas/personal/practica-rust/calculator/target/debug/deps/libsignal_hook-63d606a3fd659bc2.rlib: /home/tomas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/lib.rs /home/tomas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/cleanup.rs /home/tomas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/flag.rs /home/tomas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/iterator.rs /home/tomas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/pipe.rs
+
+/home/tomas/personal/practica-rust/calculator/target/debug/deps/signal_hook-63d606a3fd659bc2.d: /home/tomas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/lib.rs /home/tomas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/cleanup.rs /home/tomas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/flag.rs /home/tomas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/iterator.rs /home/tomas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/pipe.rs
+
+/home/tomas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/lib.rs:
+/home/tomas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/cleanup.rs:
+/home/tomas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/flag.rs:
+/home/tomas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/iterator.rs:
+/home/tomas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/pipe.rs:
